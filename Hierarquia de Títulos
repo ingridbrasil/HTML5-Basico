@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="coração vermelho.ico" type="image/x-icon">
+    <title>Hierarquia de Titulos</title>
+</head>
+<body>
+    <h1>Entendendo Portugal</h1>
+    <h2>Introdução</h2>
+    <h3>Justificação da Temática </h3>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis hic unde maxime consequuntur? Sint impedit esse quis consequatur voluptate! Est ducimus id atque delectus laudantium quaerat et incidunt repellendus deserunt!</p>
+    <h3>Caráter Excecional</h3>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt suscipit quas perferendis animi magnam expedita dolorem possimus consectetur voluptates, eveniet ex maxime at voluptatibus optio neque exercitationem dolore, rem quam.</p>
+    <h3>Perguntas de Partida</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere molestias voluptates delectus optio, dolores repellat sequi aliquam accusamus maiores, eum cum sunt sapiente quam exercitationem rem voluptatum. Eligendi, tempore alias.</p>
+    <h3>Metodologia de Investigação</h3>
+    <h4>Etapas de Investigação</h4>
+    <h4>Instrumentos de analise</h4>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos quo, iste libero odio quaerat minus quae veritatis aliquam, dignissimos ducimus cum explicabo aperiam et suscipit cumque neque eligendi totam quidem?</p>
+    <h2>Ordenamento do Territorio em Portugal</h2>
+    <h3>Os instrumentos de Gestão</h3>
+    <h4>Os instrumentos de planeamento</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut earum accusantium quod quidem esse asperiores veniam quia itaque, doloribus, eligendi quisquam dolor, rem architecto soluta tempore maxime nulla eum nesciunt?</p>
+    <h4>Os registros territoriais</h4>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum fugiat, explicabo voluptatum facilis est sunt, rerum laboriosam sed ad esse reiciendis sapiente molestiae modi harum exercitationem nam architecto sit quidem.</p>
+    
+</body>
+</html>
