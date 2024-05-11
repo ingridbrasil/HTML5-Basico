@@ -1,2 +1,2 @@
-# Estudos HTML5 e CSS3
-## Esses sã os meus primeiros exercicios em HTML e CSS ❤️
+# Estudos HTML5
+## Esses são os meus primeiros exercicios em HTML ❤️
